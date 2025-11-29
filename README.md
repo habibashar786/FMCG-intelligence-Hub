@@ -317,7 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Neural**
+**Ashar**
 - PhD Candidate, Digital System Design and Automation
 
 - Master of Data Science, Liverpool John Moores University
@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by Neural | Powered by Google Gemini & A2A Protocol**
+**Made with ❤️ by Ashar | Powered by Google Gemini & A2A Protocol**
 
 ⭐ Star us on GitHub — it motivates us a lot!
 
