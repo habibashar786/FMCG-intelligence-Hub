@@ -348,3 +348,39 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ‚≠ê Star us on GitHub ‚Äî it motivates us a lot!
 
 </div>
+---
+
+## Ì¥í Security Setup
+
+### Quick Start
+
+1. **Clone the repository**
+```bash
+   git clone https://github.com/habibashar786/fmcg-intelligence-hub.git
+   cd fmcg-intelligence-hub
+```
+
+2. **Setup environment variables**
+```bash
+   cp .env.example .env
+   # Edit .env with your API keys
+   nano .env
+```
+
+3. **Get Google API Key**
+   - Visit: https://console.cloud.google.com/apis/credentials
+   - Create new API key
+   - Add to `.env` file
+
+4. **Run the application**
+```bash
+   docker-compose up -d
+```
+
+### ‚ö†Ô∏è Security Notes
+
+- **NEVER commit `.env` files**
+- Rotate API keys regularly
+- Use secret management in production
+- See [SECURITY.md](SECURITY.md) for details
+
