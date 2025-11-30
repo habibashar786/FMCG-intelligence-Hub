@@ -318,7 +318,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Ashar**
-- PhD Candidate, Digital System Design and Automation
 
 - Master of Data Science, Liverpool John Moores University
 
